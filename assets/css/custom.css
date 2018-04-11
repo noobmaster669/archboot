@@ -3,5 +3,5 @@ h1, h2 {
 }
 
 .project_tagline {
-    vertical-align: middle;
+    float: right;
 }
