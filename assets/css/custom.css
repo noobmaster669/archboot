@@ -1,3 +1,7 @@
 h1, h2 {
     display: inline;
 }
+
+.project_tagline {
+    vertical-align: middle;
+}
