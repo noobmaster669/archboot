@@ -4,10 +4,10 @@
 # ============================================================================
 
 # Gnome
-export _gnome="gnome gnome-extra"
+export _gnome="gnome"
 
 # Kde
-export _kde="plasma kde-applications"
+export _kde="plasma"
 
 # Lxde
 export _lxde="lxde"
