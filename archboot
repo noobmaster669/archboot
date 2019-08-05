@@ -2,7 +2,7 @@
 __appname__="archboot"
 __version__="v2.7.9"
 __branch__="master"
-__author__="@grm34"
+__author__="@noobmaster669"
 __license__="Apache v2.0 License"
 
 _archboot_banner() {
@@ -38,8 +38,8 @@ the archboot wiki: https://github.com/grm34/archboot/wiki
 # select an option, ask some informations to the user or to get install logs.
 
 # Github url: $_url for sources and $_gh_pages for images
-_url="https://raw.githubusercontent.com/grm34/archboot/${__branch__}"
-_gh_pages="https://raw.githubusercontent.com/grm34/archboot/gh-pages"
+_url="https://raw.githubusercontent.com/noobmaster669/archboot/${__branch__}"
+_gh_pages="https://raw.githubusercontent.com/noobmaster669/archboot/gh-pages"
 
 # Shell colors
 red="\e[1;31m"; green="\e[1;32m"; yellow="\e[1;33m"
